@@ -34,7 +34,7 @@ This project recreates core data center operations at a small scale: physical ne
 | ASUS TUF Laptop | Windows client / admin workstation |
 | TP-Link TL-SG608E | 8-port managed switch (802.1Q VLAN capable) |
 | Verizon Router | Internet gateway |
-| Cat6e Ethernet cabling | Physical connectivity |
+| Cat6 Ethernet cabling | Physical connectivity |
 | USB Flash Drive | Bootable Ubuntu Server installer (via Rufus) |
 
 ## Skills Demonstrated
